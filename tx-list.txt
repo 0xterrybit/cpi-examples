@@ -1,0 +1,36 @@
+文件说明:
+    创建代币： create-test-tokens.ts
+    检查余额： check-balances.ts
+    
+    创建 POOL: init_pool.rs
+    添加 LP : lock_liquidity.rs
+    swap: swap.rs
+
+
+A代币
+    创建 A代币 （token mint: A95q6pMLz9Emt8WBvjWxXLAFe38zBkcDc3ff1XZmc3o5）
+    https://solana.fm/tx/2WkWzAkV6F7zWNvU24qWhy1zmaErzd3Tgsxoh61vJDpvsteYFZJK37JJRiVmDu1dMxpSfXHzyoxSroFMCY9V2iYK
+
+    铸造 Mock A 代币
+    A95q6pMLz9Emt8WBvjWxXLAFe38zBkcDc3ff1XZmc3o5
+    https://solana.fm/tx/2smL3n5mBhPuEsfpftij7XL9drtNQgcnoto9GF3wvGmXPomvC9gqfDQUHopPvRUciFDeZffkhoEXY5RXHD5Qzpet
+
+B代币
+创建B代币（token mint: 9DtmCnat2ZqPG1bwNznmVmaizzxaBWpQ747qk9EEN2rt）
+    https://solana.fm/tx/5dceJ8VkBrqjkdL14qRP2YkQRrqsSfRZxNLBBLkaET75SqNcVpWY43vhhF3ENJGQZkuwR1n5xzZQoPTqyAEku2y4
+
+铸造 Mock B 代币
+    https://solana.fm/tx/3RE8CXTA1dn593PYYzbV9xAKNoEyzeZHKiN9uXrHbzwzeNBdnXJj6MHgN3U7ossfxUrXpdsSmEvEMSK9QHemqvSD
+    
+创建 POOL 
+    LP 地址： C7aK98weDDJUa3gGzVvdWhmaT7bGyHNGnbeT2qg2Q59F
+    tx: 38aWwjwpWXLMQzNcUqRd3mftoWQnnuEnH2FqMDyqQrPLNtV5L8Xd5UgJd1NjoLQKfFn5cUvNGJaP449rUNcQerFY
+
+添加 LP 
+    4LPJp55YeB3yr5EGWoJpawsG2hMsaT9C5BADNyTtwPksPgUGD3wsbEAS2Qdk247y1A9Zxu4MkCdLk1BiU669c4bB
+
+swap 
+    4r6psdtyKG6irHZJuifETYFo6dSvWZboe7zFTrdYQbtA7RCAaiR7P8k46CcD6PkxK8jjqaZXkpiPm1vS2DtxnqG8
+
+
+

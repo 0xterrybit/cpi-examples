@@ -1,0 +1,11 @@
+{
+  "tokenA": {
+    "mint": "A95q6pMLz9Emt8WBvjWxXLAFe38zBkcDc3ff1XZmc3o5",
+    "account": "ASvyuvdMX67PJAg4eU2bT21WZe9hNwX2BTPe3dKrpN8Q"
+  },
+  "tokenB": {
+    "mint": "9DtmCnat2ZqPG1bwNznmVmaizzxaBWpQ747qk9EEN2rt",
+    "account": "BES3jjgZNmkxoKTK8LX6mk2ShNwqETCGbRmgfn67JSvs"
+  },
+  "owner": "A6WcyjnyU4nBD66tKxzg35bYCkeNqF4MCtQr7pwreVAv"
+}
